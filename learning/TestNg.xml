@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="example suite 1" verbose="1" parallel="tests" thread-count="2" >
+  <test name="Regression suite 1" >
+    <classes>
+       <class name="com.learning.selenium.Display"/>
+     </classes>
+ </test>
+  <test name="Regression suite 2" >
+    <classes>
+       <class name="com.learning.selenium.Fluent"/>
+    </classes>
+ </test>
+</suite>
